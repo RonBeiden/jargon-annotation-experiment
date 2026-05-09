@@ -311,7 +311,7 @@ def show_method_a(abstract_row, item_num, total_items):
     st.caption(f"Discipline: {abstract_row['discipline']}")
     st.markdown(
         f"<div style='background:#f8f9fa; padding:16px; border-radius:8px; "
-        f"border-left:4px solid #1565c0; margin:12px 0; line-height:1.6;'>"
+        f"border-left:4px solid #1565c0; margin:12px 0; line-height:1.6; color:#1a1a1a;'>"
         f"{abstract_row['text']}</div>",
         unsafe_allow_html=True,
     )
@@ -348,7 +348,7 @@ def show_method_b(abstract_row, item_num, total_items):
     st.caption(f"Discipline: {abstract_row['discipline']}")
     st.markdown(
         f"<div style='background:#f8f9fa; padding:16px; border-radius:8px; "
-        f"border-left:4px solid #e65100; margin:12px 0; line-height:1.6;'>"
+        f"border-left:4px solid #e65100; margin:12px 0; line-height:1.6; color:#1a1a1a;'>"
         f"{abstract_row['text']}</div>",
         unsafe_allow_html=True,
     )
@@ -387,7 +387,7 @@ def show_method_c(left_row, right_row, item_num, total_items):
         st.caption(f"Discipline: {left_row['discipline']}")
         st.markdown(
             f"<div style='background:#e3f2fd; padding:14px; border-radius:8px; "
-            f"border-left:4px solid #1565c0; line-height:1.6; font-size:0.92em;'>"
+            f"border-left:4px solid #1565c0; line-height:1.6; font-size:0.92em; color:#1a1a1a;'>"
             f"{left_row['text']}</div>",
             unsafe_allow_html=True,
         )
@@ -405,7 +405,7 @@ def show_method_c(left_row, right_row, item_num, total_items):
         st.caption(f"Discipline: {right_row['discipline']}")
         st.markdown(
             f"<div style='background:#e8f5e9; padding:14px; border-radius:8px; "
-            f"border-left:4px solid #2e7d32; line-height:1.6; font-size:0.92em;'>"
+            f"border-left:4px solid #2e7d32; line-height:1.6; font-size:0.92em; color:#1a1a1a;'>"
             f"{right_row['text']}</div>",
             unsafe_allow_html=True,
         )
