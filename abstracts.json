@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "title": "Highly accurate protein structure prediction with AlphaFold",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Demonstrating accuracy competitive with experimental structures in a majority of cases and greatly outperforming other methods. Underpinning the latest version of AlphaFold is a novel machine learning approach that incorporates physical and biological knowledge about protein structure, leveraging multi-sequence alignments, into the design of the deep learning algorithm.",
+    "journal": "Nature",
+    "year": 2021,
+    "doi": "https://doi.org/10.1038/s41586-021-03819-2"
+  },
+  {
+    "id": 2,
+    "title": "Initial sequencing and analysis of the human genome",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The human genome holds an extraordinary trove of information about human development, physiology, medicine and evolution. Here we report the results of an international collaboration to produce and make freely available a draft sequence of the human genome. We also present an initial analysis of the data, describing some of the insights that can be gleaned from the sequence.",
+    "journal": "Nature",
+    "year": 2001,
+    "doi": "https://doi.org/10.1038/35057062"
+  },
+  {
+    "id": 3,
+    "title": "Array programming with NumPy",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Here we review how a few fundamental array concepts lead to a simple and powerful programming paradigm for organizing, exploring and analysing scientific data. NumPy is the foundation upon which the scientific Python ecosystem is constructed. It is so pervasive that several projects, targeting audiences with specialized needs, have developed their own NumPy-like interfaces and array objects. Owing to its central position in the ecosystem, NumPy increasingly acts as an interoperability layer between such array computation libraries and, together with its application programming interface (API), provides a flexible framework to support the next decade of scientific and industrial analysis.",
+    "journal": "Nature",
+    "year": 2020,
+    "doi": "https://doi.org/10.1038/s41586-020-2649-2"
+  },
+  {
+    "id": 4,
+    "title": "Accurate structure prediction of biomolecular interactions with AlphaFold 3",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Together, these results show that high-accuracy modelling across biomolecular space is possible within a single unified deep-learning framework.",
+    "journal": "Nature",
+    "year": 2024,
+    "doi": "https://doi.org/10.1038/s41586-024-07487-w"
+  },
+  {
+    "id": 5,
+    "title": "The UK Biobank resource with deep phenotyping and genomic data",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The UK Biobank project is a prospective cohort study with deep genetic and phenotypic data collected on approximately 500,000 individuals from across the United Kingdom, aged between 40 and 69 at recruitment. The open resource is unique in its size and scope. A rich variety of phenotypic and health-related information is available on each participant, including biological measurements, lifestyle indicators, biomarkers in blood and urine, and imaging of the body and brain. Follow-up information is provided by linking health and medical records. Genome-wide genotype data have been collected on all participants, providing many opportunities for the discovery of new genetic associations and the genetic bases of complex traits. Here we describe the centralized analysis of the genetic data, including genotype quality, properties of population structure and relatedness of the genetic data, and efficient phasing and genotype imputation that increases the number of testable variants to around 96 million. Classical allelic variation at 11 human leukocyte antigen genes was imputed, resulting in the recovery of signals with known associations between human leukocyte antigen alleles and many diseases.",
+    "journal": "Nature",
+    "year": 2018,
+    "doi": "https://doi.org/10.1038/s41586-018-0579-z"
+  },
+  {
+    "id": 6,
+    "title": "Genome sequencing in microfabricated high-density picolitre reactors",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "The proliferation of large-scale DNA-sequencing projects in recent years has driven a search for alternative methods to reduce time and cost. Here we describe a scalable, highly parallel sequencing system with raw throughput significantly greater than that of state-of-the-art capillary electrophoresis instruments. The apparatus uses a novel fibre-optic slide of individual wells and is able to sequence 25 million bases, at 99% or better accuracy, in one four-hour run. To achieve an approximately 100-fold increase in throughput over current Sanger sequencing technology, we have developed an emulsion method for DNA amplification and an instrument for sequencing by synthesis using a pyrosequencing protocol optimized for solid support and picolitre-scale volumes. Here we show the utility, throughput, accuracy and robustness of this system by shotgun sequencing and de novo assembly of the Mycoplasma genitalium genome with 96% coverage at 99.96% accuracy in one run of the machine.",
+    "journal": "Nature",
+    "year": 2005,
+    "doi": "https://doi.org/10.1038/nature03959"
+  },
+  {
+    "id": 7,
+    "title": "Quantum supremacy using a programmable superconducting processor",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "For this specific computational task, heralding a much-anticipated computing paradigm.",
+    "journal": "Nature",
+    "year": 2019,
+    "doi": "https://doi.org/10.1038/s41586-019-1666-5"
+  },
+  {
+    "id": 8,
+    "title": "The Theory of Probability",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Abstract Jeffreys' Theory of Probability, first published in 1939, was the first attempt to develop a fundamental theory of scientific inference based on Bayesian statistics. His ideas were well ahead of their time and it is only in the past ten years that the subject of Bayes' factors has been significantly developed and extended. Recent work has made Bayesian statistics an essential subject for graduate students and researchers. This seminal book is their starting point.",
+    "journal": "Nature",
+    "year": 1922,
+    "doi": "https://doi.org/10.1038/109132a0"
+  },
+  {
+    "id": 9,
+    "title": "Genetic effects on gene expression across human tissues",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Characterization of the molecular function of the human genome and its variation across individuals is essential for identifying the cellular mechanisms that underlie human genetic traits and diseases. The Genotype-Tissue Expression (GTEx) project aims to characterize variation in gene expression levels across individuals and diverse tissues of the human body, many of which are not easily accessible. Here we describe genetic effects on gene expression levels across 44 human tissues. We find that local genetic variation affects gene expression levels for the majority of genes, and we further identify inter-chromosomal genetic effects for 93 genes and 112 loci. On the basis of the identified genetic effects, we characterize patterns of tissue specificity, compare local and distal effects, and evaluate the functional properties of the genetic effects. We also demonstrate that multi-tissue, multi-individual data can be used to identify genes and pathways affected by human disease-associated variation, enabling a mechanistic interpretation of gene regulation and the genetic basis of disease.",
+    "journal": "Nature",
+    "year": 2017,
+    "doi": "https://doi.org/10.1038/nature24277"
+  },
+  {
+    "id": 10,
+    "title": "Highly accurate protein structure prediction for the human proteome",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "At a scale that covers almost the entire human proteome (98.5% of human proteins). The resulting dataset covers 58% of residues with a confident prediction, of which a subset (36% of all residues) have very high confidence. We introduce several metrics developed by building on the AlphaFold model and use them to interpret the dataset, identifying strong multi-domain predictions as well as regions that are likely to be disordered. Finally, we provide some case studies to illustrate how high-quality predictions could be used to generate biological hypotheses. We are making our predictions freely available to the community and anticipate that routine large-scale and high-accuracy structure prediction will become an important tool that will allow new questions to be addressed from a structural perspective.",
+    "journal": "Nature",
+    "year": 2021,
+    "doi": "https://doi.org/10.1038/s41586-021-03828-1"
+  },
+  {
+    "id": 11,
+    "title": "Large language models encode clinical knowledge",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "), including 67.6% accuracy on MedQA (US Medical Licensing Exam-style questions), surpassing the prior state of the art by more than 17%. However, human evaluation reveals key gaps. To resolve this, we introduce instruction prompt tuning, a parameter-efficient approach for aligning LLMs to new domains using a few exemplars. The resulting model, Med-PaLM, performs encouragingly, but remains inferior to clinicians. We show that comprehension, knowledge recall and reasoning improve with model scale and instruction prompt tuning, suggesting the potential utility of LLMs in medicine. Our human evaluations reveal limitations of today's models, reinforcing the importance of both evaluation frameworks and method development in creating safe, helpful LLMs for clinical applications.",
+    "journal": "Nature",
+    "year": 2023,
+    "doi": "https://doi.org/10.1038/s41586-023-06291-2"
+  },
+  {
+    "id": 12,
+    "title": "A framework for human microbiome research",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "A variety of microbial communities and their genes (the microbiome) exist throughout the human body, with fundamental roles in human health and disease. The National Institutes of Health (NIH)-funded Human Microbiome Project Consortium has established a population-scale framework to develop metagenomic protocols, resulting in a broad range of quality-controlled resources and data including standardized methods for creating, processing and interpreting distinct types of high-throughput metagenomic data available to the scientific community. Here we present resources from a population of 242 healthy adults sampled at 15 or 18 body sites up to three times, which have generated 5,177 microbial taxonomic profiles from 16S ribosomal RNA genes and over 3.5 terabases of metagenomic sequence so far. In parallel, approximately 800 reference strains isolated from the human body have been sequenced. Collectively, these data represent the largest resource describing the abundance and variety of the human microbiome, while providing a framework for current and future studies.",
+    "journal": "Nature",
+    "year": 2012,
+    "doi": "https://doi.org/10.1038/nature11209"
+  },
+  {
+    "id": 13,
+    "title": "Sequencing of 53,831 diverse genomes from the NHLBI TOPMed Program",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "In the first 53,831 TOPMed samples, we detected more than 400 million single-nucleotide and insertion or deletion variants after alignment with the reference genome. Additional previously undescribed variants were detected through assembly of unmapped reads and customized analysis in highly variable loci. Among the more than 400 million detected variants, 97% have frequencies of less than 1% and 46% are singletons that are present in only one individual (53% among unrelated individuals). These rare variants provide insights into mutational processes and recent human evolutionary history. The extensive catalogue of genetic variation in TOPMed studies provides unique opportunities for exploring the contributions of rare and noncoding sequence variants to phenotypic variation. Furthermore, combining TOPMed haplotypes with modern imputation methods improves the power and reach of genome-wide association studies to include variants down to a frequency of approximately 0.01%.",
+    "journal": "Nature",
+    "year": 2021,
+    "doi": "https://doi.org/10.1038/s41586-021-03205-y"
+  },
+  {
+    "id": 14,
+    "title": "An integrated semiconductor device enabling non-optical genome sequencing",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The seminal importance of DNA sequencing to the life sciences, biotechnology and medicine has driven the search for more scalable and lower-cost solutions. Here we describe a DNA sequencing technology in which scalable, low-cost semiconductor manufacturing techniques are used to make an integrated circuit able to directly perform non-optical DNA sequencing of genomes. Sequence data are obtained by directly sensing the ions produced by template-directed DNA polymerase synthesis using all-natural nucleotides on this massively parallel semiconductor-sensing device or ion chip. The ion chip contains ion-sensitive, field-effect transistor-based sensors in perfect register with 1.2 million wells, which provide confinement and allow parallel, simultaneous detection of independent sequencing reactions. Use of the most widely used technology for constructing integrated circuits, the complementary metal-oxide semiconductor (CMOS) process, allows for low-cost, large-scale production and scaling of the device to higher densities and larger array sizes. We show the performance of the system by sequencing three bacterial genomes, its robustness and scalability by producing ion chips with up to 10 times as many sensors and sequencing a human genome.",
+    "journal": "Nature",
+    "year": 2011,
+    "doi": "https://doi.org/10.1038/nature10242"
+  },
+  {
+    "id": 15,
+    "title": "Reproducible brain-wide association studies require thousands of individuals",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Here we used three of the largest neuroimaging datasets currently available-with a total sample size of around 50,000 individuals-to quantify BWAS effect sizes and reproducibility as a function of sample size. BWAS associations were smaller than previously thought, resulting in statistically underpowered studies, inflated effect sizes and replication failures at typical sample sizes. As sample sizes grew into the thousands, replication rates began to improve and effect size inflation decreased. More robust BWAS effects were detected for functional MRI (versus structural), cognitive tests (versus mental health questionnaires) and multivariate methods (versus univariate). Smaller than expected brain-phenotype associations and variability across population subsamples can explain widespread BWAS replication failures. In contrast to non-BWAS approaches with larger effects (for example, lesions, interventions and within-person), BWAS reproducibility requires samples with thousands of individuals.",
+    "journal": "Nature",
+    "year": 2022,
+    "doi": "https://doi.org/10.1038/s41586-022-04492-9"
+  },
+  {
+    "id": 16,
+    "title": "De novo design of protein structure and function with RFdiffusion",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Have had considerable success in image and language generative modelling but limited success when applied to protein modelling, probably due to the complexity of protein backbone geometry and sequence-structure relationships. Here we show that by fine-tuning the RoseTTAFold structure prediction network on protein structure denoising tasks, we obtain a generative model of protein backbones that achieves outstanding performance on unconditional and topology-constrained protein monomer design, protein binder design, symmetric oligomer design, enzyme active site scaffolding and symmetric motif scaffolding for therapeutic and metal-binding protein design. We demonstrate the power and generality of the method, called RoseTTAFold diffusion (RFdiffusion), by experimentally characterizing the structures and functions of hundreds of designed symmetric assemblies, metal-binding proteins and protein binders. The accuracy of RFdiffusion is confirmed by the cryogenic electron microscopy structure of a designed binder in complex with influenza haemagglutinin that is nearly identical to the design model. In a manner analogous to networks that produce images from user-specified inputs, RFdiffusion enables the design of diverse functional proteins from simple molecular specifications.",
+    "journal": "Nature",
+    "year": 2023,
+    "doi": "https://doi.org/10.1038/s41586-023-06415-8"
+  },
+  {
+    "id": 17,
+    "title": "Brain charts for the human lifespan",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Showed high stability of individuals across longitudinal assessments, and demonstrated robustness to technical and methodological differences between primary studies. Centile scores showed increased heritability compared with non-centiled MRI phenotypes, and provided a standardized measure of atypical brain structure that revealed patterns of neuroanatomical variation across neurological and psychiatric disorders. In summary, brain charts are an essential step towards robust quantification of individual variation benchmarked to normative trajectories in multiple, commonly used neuroimaging phenotypes.",
+    "journal": "Nature",
+    "year": 2022,
+    "doi": "https://doi.org/10.1038/s41586-022-04554-y"
+  },
+  {
+    "id": 18,
+    "title": "Can we open the black box of AI?",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Artificial intelligence is everywhere. But before scientists trust it, they first need to understand how machines learn.",
+    "journal": "Nature",
+    "year": 2016,
+    "doi": "https://doi.org/10.1038/538020a"
+  },
+  {
+    "id": 19,
+    "title": "Analysis of the mouse transcriptome based on functional annotation of 60,770 full-length cDNAs",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Only a small proportion of the mouse genome is transcribed into mature messenger RNA transcripts. There is an international collaborative effort to identify all full-length mRNA transcripts from the mouse, and to ensure that each is represented in a physical collection of clones. Here we report the manual annotation of 60,770 full-length mouse complementary DNA sequences. These are clustered into 33,409 'transcriptional units', contributing 90.1% of a newly established mouse transcriptome database. Of these transcriptional units, 4,258 are new protein-coding and 11,665 are new non-coding messages, indicating that non-coding RNA is a major component of the transcriptome. 41% of all transcriptional units showed evidence of alternative splicing. In protein-coding transcripts, 79% of splice variations altered the protein product. Whole-transcriptome analyses resulted in the identification of 2,431 sense-antisense pairs. The present work, completely supported by physical clones, provides the most comprehensive survey of a mammalian transcriptome so far, and is a valuable resource for functional genomics.",
+    "journal": "Nature",
+    "year": 2002,
+    "doi": "https://doi.org/10.1038/nature01266"
+  },
+  {
+    "id": 20,
+    "title": "Magnetic resonance fingerprinting",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Magnetic resonance is an exceptionally powerful and versatile measurement technique. The basic structure of a magnetic resonance experiment has remained largely unchanged for almost 50 years, being mainly restricted to the qualitative probing of only a limited set of the properties that can in principle be accessed by this technique. Here we introduce an approach to data acquisition, post-processing and visualization--which we term 'magnetic resonance fingerprinting' (MRF)--that permits the simultaneous non-invasive quantification of multiple important properties of a material or tissue. MRF thus provides an alternative way to quantitatively detect and analyse complex changes that can represent physical alterations of a substance or early indicators of disease. MRF can also be used to identify the presence of a specific target material or tissue, which will increase the sensitivity, specificity and speed of a magnetic resonance study, and potentially lead to new diagnostic testing methodologies. When paired with an appropriate pattern-recognition algorithm, MRF inherently suppresses measurement errors and can thus improve measurement accuracy.",
+    "journal": "Nature",
+    "year": 2013,
+    "doi": "https://doi.org/10.1038/nature11971"
+  },
+  {
+    "id": 21,
+    "title": "Foundation models for generalist medical artificial intelligence",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "The exceptionally rapid development of highly flexible, reusable artificial intelligence (AI) models is likely to usher in newfound capabilities in medicine. We propose a new paradigm for medical AI, which we refer to as generalist medical AI (GMAI). GMAI models will be capable of carrying out a diverse set of tasks using very little or no task-specific labelled data. Built through self-supervision on large, diverse datasets, GMAI will flexibly interpret different combinations of medical modalities, including data from imaging, electronic health records, laboratory results, genomics, graphs or medical text. Models will in turn produce expressive outputs such as free-text explanations, spoken recommendations or image annotations that demonstrate advanced medical reasoning abilities. Here we identify a set of high-impact potential applications for GMAI and lay out specific technical capabilities and training datasets necessary to enable them. We expect that GMAI-enabled applications will challenge current strategies for regulating and validating AI devices for medicine and will shift practices associated with the collection of large medical datasets.",
+    "journal": "Nature",
+    "year": 2023,
+    "doi": "https://doi.org/10.1038/s41586-023-05881-4"
+  },
+  {
+    "id": 22,
+    "title": "A national experiment reveals where a growth mindset improves achievement",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "A global priority for the behavioural sciences is to develop cost-effective, scalable interventions that could improve the academic outcomes of adolescents at a population level, but no such interventions have so far been evaluated in a population-generalizable sample. Here we show that a short (less than one hour), online growth mindset intervention-which teaches that intellectual abilities can be developed-improved grades among lower-achieving students and increased overall enrolment to advanced mathematics courses in a nationally representative sample of students in secondary education in the United States. Notably, the study identified school contexts that sustained the effects of the growth mindset intervention: the intervention changed grades when peer norms aligned with the messages of the intervention. Confidence in the conclusions of this study comes from independent data collection and processing, pre-registration of analyses, and corroboration of results by a blinded Bayesian analysis.",
+    "journal": "Nature",
+    "year": 2019,
+    "doi": "https://doi.org/10.1038/s41586-019-1466-y"
+  },
+  {
+    "id": 23,
+    "title": "Strains, functions and dynamics in the expanded Human Microbiome Project",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The characterization of baseline microbial and functional diversity in the human microbiome has enabled studies of microbiome-related disease, diversity, biogeography, and molecular function. The National Institutes of Health Human Microbiome Project has provided one of the broadest such characterizations so far. Here we introduce a second wave of data from the study, comprising 1,631 new metagenomes (2,355 total) targeting diverse body sites with multiple time points in 265 individuals. We applied updated profiling and assembly methods to provide new characterizations of microbiome personalization. Strain identification revealed subspecies clades specific to body sites; it also quantified species with phylogenetic diversity under-represented in isolate genomes. Body-wide functional profiling classified pathways into universal, human-enriched, and body site-enriched subsets. Finally, temporal analysis decomposed microbial variation into rapidly variable, moderately variable, and stable subsets. This study furthers our knowledge of baseline human microbial diversity and enables an understanding of personalized microbiome function and dynamics.",
+    "journal": "Nature",
+    "year": 2017,
+    "doi": "https://doi.org/10.1038/nature23889"
+  },
+  {
+    "id": 24,
+    "title": "Accurate medium-range global weather forecasting with 3D neural networks",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Our method also works well with extreme weather forecasts and ensemble forecasts. When initialized with reanalysis data, the accuracy of tracking tropical cyclones is also higher than that of ECMWF-HRES.",
+    "journal": "Nature",
+    "year": 2023,
+    "doi": "https://doi.org/10.1038/s41586-023-06185-3"
+  },
+  {
+    "id": 25,
+    "title": "A high-resolution map of human evolutionary constraint using 29 mammals",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "The comparison of related genomes has emerged as a powerful lens for genome interpretation. Here we report the sequencing and comparative analysis of 29 eutherian genomes. We confirm that at least 5.5% of the human genome has undergone purifying selection, and locate constrained elements covering ∼4.2% of the genome. We use evolutionary signatures and comparisons with experimental data sets to suggest candidate functions for ∼60% of constrained bases. These elements reveal a small number of new coding exons, candidate stop codon readthrough events and over 10,000 regions of overlapping synonymous constraint within protein-coding exons. We find 220 candidate RNA structural families, and nearly a million elements overlapping potential promoter, enhancer and insulator regions. We report specific amino acid residues that have undergone positive selection, 280,000 non-coding elements exapted from mobile elements and more than 1,000 primate- and human-accelerated elements. Overlap with disease-associated variants indicates that our findings will be relevant for studies of human biology, health and disease.",
+    "journal": "Nature",
+    "year": 2011,
+    "doi": "https://doi.org/10.1038/nature10530"
+  },
+  {
+    "id": 26,
+    "title": "A call for transparent reporting to optimize the predictive value of preclinical research",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The US National Institute of Neurological Disorders and Stroke convened major stakeholders in June 2012 to discuss how to improve the methodological reporting of animal studies in grant applications and publications. The main workshop recommendation is that at a minimum studies should report on sample-size estimation, whether and how animals were randomized, whether investigators were blind to the treatment, and the handling of data. We recognize that achieving a meaningful improvement in the quality of reporting will require a concerted effort by investigators, reviewers, funding agencies and journal editors. Requiring better reporting of animal studies will raise awareness of the importance of rigorous study design to accelerate scientific progress.",
+    "journal": "Nature",
+    "year": 2012,
+    "doi": "https://doi.org/10.1038/nature11556"
+  },
+  {
+    "id": 27,
+    "title": "Omicron extensively but incompletely escapes Pfizer BNT162b2 neutralization",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Here we investigated Omicron escape from neutralization by antibodies from South African individuals vaccinated with Pfizer BNT162b2. We used blood samples taken soon after vaccination from individuals who were vaccinated and previously infected with SARS-CoV-2 or vaccinated with no evidence of previous infection. We isolated and sequence-confirmed live Omicron virus from an infected person and observed that Omicron requires the angiotensin-converting enzyme 2 (ACE2) receptor to infect cells. We compared plasma neutralization of Omicron relative to an ancestral SARS-CoV-2 strain and found that neutralization of ancestral virus was much higher in infected and vaccinated individuals compared with the vaccinated-only participants. However, both groups showed a 22-fold reduction in vaccine-elicited neutralization by the Omicron variant. Participants who were vaccinated and had previously been infected exhibited residual neutralization of Omicron similar to the level of neutralization of the ancestral virus observed in the vaccination-only group. These data support the notion that reasonable protection against Omicron may be maintained using vaccination approaches.",
+    "journal": "Nature",
+    "year": 2021,
+    "doi": "https://doi.org/10.1038/s41586-021-04387-1"
+  },
+  {
+    "id": 28,
+    "title": "Mutation selection and the natural history of cancer",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Survival of the rapidly renewing tissues of long-lived animals like man requires that they be protected against the natural selection of fitter variant cells (that is, the spontaneous appearance of cancer). This article discusses three possible protective mechanisms and shows how they could explain various features of the natural history of certain common cancers of man. Reproduced by permission. J. Cairns, Mutation selection and the natural history of cancer. Nature 255 , 197-200 (1975).",
+    "journal": "Nature",
+    "year": 1975,
+    "doi": "https://doi.org/10.1038/255197a0"
+  },
+  {
+    "id": 29,
+    "title": "The UK10K project identifies rare variants in health and disease",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The contribution of rare and low-frequency variants to human traits is largely unexplored. Here we describe insights from sequencing whole genomes (low read depth, 7×) or exomes (high read depth, 80×) of nearly 10,000 individuals from population-based and disease collections. In extensively phenotyped cohorts we characterize over 24 million novel sequence variants, generate a highly accurate imputation reference panel and identify novel alleles associated with levels of triglycerides (APOB), adiponectin (ADIPOQ) and low-density lipoprotein cholesterol (LDLR and RGAG1) from single-marker and rare variant aggregation tests. We describe population structure and functional annotation of rare and low-frequency variants, use the data to estimate the benefits of sequencing for association studies, and summarize lessons from disease-specific collections. Finally, we make available an extensive resource, including individual-level genetic and phenotypic data and web-based tools to facilitate the exploration of association results.",
+    "journal": "Nature",
+    "year": 2015,
+    "doi": "https://doi.org/10.1038/nature14962"
+  },
+  {
+    "id": 30,
+    "title": "A global map of travel time to cities to assess inequalities in accessibility in 2015",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "The economic and man-made resources that sustain human wellbeing are not distributed evenly across the world, but are instead heavily concentrated in cities. Poor access to opportunities and services offered by urban centres (a function of distance, transport infrastructure, and the spatial distribution of cities) is a major barrier to improved livelihoods and overall development. Advancing accessibility worldwide underpins the equity agenda of 'leaving no one behind' established by the Sustainable Development Goals of the United Nations. This has renewed international efforts to accurately measure accessibility and generate a metric that can inform the design and implementation of development policies. The only previous attempt to reliably map accessibility worldwide, which was published nearly a decade ago, predated the baseline for the Sustainable Development Goals and excluded the recent expansion in infrastructure networks, particularly in lower-resource settings. In parallel, new data sources provided by Open Street Map and Google now capture transportation networks with unprecedented detail and precision. Here we develop and validate a map that quantifies travel time to cities for 2015 at a spatial resolution of approximately one by one kilometre by integrating ten global-scale surfaces that characterize factors affecting human movement rates and 13,840 high-density urban centres within an established geospatial-modelling framework. Our results highlight disparities in accessibility relative to wealth as 50.9% of individuals living in low-income settings (concentrated in sub-Saharan Africa) reside within an hour of a city compared to 90.7% of individuals in high-income settings. By further triangulating this map against socioeconomic datasets, we demonstrate how access to urban centres stratifies the economic, educational, and health status of humanity.",
+    "journal": "Nature",
+    "year": 2018,
+    "doi": "https://doi.org/10.1038/nature25181"
+  },
+  {
+    "id": 31,
+    "title": "Optimization by Simulated Annealing",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "There is a deep and useful connection between statistical mechanics (the behavior of systems with many degrees of freedom in thermal equilibrium at a finite temperature) and multivariate or combinatorial optimization (finding the minimum of a given function depending on many parameters). A detailed analogy with annealing in solids provides a framework for optimization of the properties of very large and complex systems. This connection to statistical mechanics exposes new information and provides an unfamiliar perspective on traditional optimization problems and methods.",
+    "journal": "Science",
+    "year": 1983,
+    "doi": "https://doi.org/10.1126/science.220.4598.671"
+  },
+  {
+    "id": 32,
+    "title": "Emergence of Scaling in Random Networks",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Systems as diverse as genetic networks or the World Wide Web are best described as networks with complex topology. A common property of many large networks is that the vertex connectivities follow a scale-free power-law distribution. This feature was found to be a consequence of two generic mechanisms: (i) networks expand continuously by the addition of new vertices, and (ii) new vertices attach preferentially to sites that are already well connected. A model based on these two ingredients reproduces the observed stationary scale-free distributions, which indicates that the development of large networks is governed by robust self-organizing phenomena that go beyond the particulars of the individual systems.",
+    "journal": "Science",
+    "year": 1999,
+    "doi": "https://doi.org/10.1126/science.286.5439.509"
+  },
+  {
+    "id": 33,
+    "title": "Judgment under Uncertainty: Heuristics and Biases",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "This article described three heuristics that are employed in making judgments under uncertainty: (i) representativeness, which is usually employed when people are asked to judge the probability that an object or event A belongs to class or process B; (ii) availability of instances or scenarios, which is often employed when people are asked to assess the frequency of a class or the plausibility of a particular development; and (iii) adjustment from an anchor, which is usually employed in numerical prediction when a relevant value is available. These heuristics are highly economical and usually effective, but they lead to systematic and predictable errors. A better understanding of these heuristics and of the biases to which they lead could improve judgments and decisions in situations of uncertainty.",
+    "journal": "Science",
+    "year": 1974,
+    "doi": "https://doi.org/10.1126/science.185.4157.1124"
+  },
+  {
+    "id": 34,
+    "title": "Reducing the Dimensionality of Data with Neural Networks",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "High-dimensional data can be converted to low-dimensional codes by training a multilayer neural network with a small central layer to reconstruct high-dimensional input vectors. Gradient descent can be used for fine-tuning the weights in such \"autoencoder\" networks, but this works well only if the initial weights are close to a good solution. We describe an effective way of initializing the weights that allows deep autoencoder networks to learn low-dimensional codes that work much better than principal components analysis as a tool to reduce the dimensionality of data.",
+    "journal": "Science",
+    "year": 2006,
+    "doi": "https://doi.org/10.1126/science.1127647"
+  },
+  {
+    "id": 35,
+    "title": "The Evolution of Cooperation",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Cooperation in organisms, whether bacteria or primates, has been a difficulty for evolutionary theory since Darwin. On the assumption that interactions between pairs of individuals occur on a probabilistic basis, a model is developed based on the concept of an evolutionarily stable strategy in the context of the Prisoner's Dilemma game. Deductions from the model, and the results of a computer tournament show how cooperation based on reciprocity can get started in an asocial world, can thrive while interacting with a wide range of other strategies, and can resist invasion once fully established. Potential applications include specific aspects of territoriality, mating, and disease.",
+    "journal": "Science",
+    "year": 1981,
+    "doi": "https://doi.org/10.1126/science.7466396"
+  },
+  {
+    "id": 36,
+    "title": "Nonlinear Dimensionality Reduction by Locally Linear Embedding",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Many areas of science depend on exploratory data analysis and visualization. The need to analyze large amounts of multivariate data raises the fundamental problem of dimensionality reduction: how to discover compact representations of high-dimensional data. Here, we introduce locally linear embedding (LLE), an unsupervised learning algorithm that computes low-dimensional, neighborhood-preserving embeddings of high-dimensional inputs. Unlike clustering methods for local dimensionality reduction, LLE maps its inputs into a single global coordinate system of lower dimensionality, and its optimizations do not involve local minima. By exploiting the local symmetries of linear reconstructions, LLE is able to learn the global structure of nonlinear manifolds, such as those generated by images of faces or documents of text.",
+    "journal": "Science",
+    "year": 2000,
+    "doi": "https://doi.org/10.1126/science.290.5500.2323"
+  },
+  {
+    "id": 37,
+    "title": "Electrical Energy Storage for the Grid: A Battery of Choices",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "The increasing interest in energy storage for the grid can be attributed to multiple factors, including the capital costs of managing peak demands, the investments needed for grid reliability, and the integration of renewable energy sources. Although existing energy storage is dominated by pumped hydroelectric, there is the recognition that battery systems can offer a number of high-value opportunities, provided that lower costs can be obtained. The battery systems reviewed here include sodium-sulfur batteries that are commercially available for grid applications, redox-flow batteries that offer low cost, and lithium-ion batteries whose development for commercial electronics and electric vehicles is being applied to grid storage.",
+    "journal": "Science",
+    "year": 2011,
+    "doi": "https://doi.org/10.1126/science.1212741"
+  },
+  {
+    "id": 38,
+    "title": "A Global Geometric Framework for Nonlinear Dimensionality Reduction",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Scientists working with large volumes of high-dimensional data, such as global climate patterns, stellar spectra, or human gene distributions, regularly confront the problem of dimensionality reduction: finding meaningful low-dimensional structures hidden in their high-dimensional observations. The human brain confronts the same problem in everyday perception, extracting from its high-dimensional sensory inputs-30,000 auditory nerve fibers or 10(6) optic nerve fibers-a manageably small number of perceptually relevant features. Here we describe an approach to solving dimensionality reduction problems that uses easily measured local metric information to learn the underlying global geometry of a data set. Unlike classical techniques such as principal component analysis (PCA) and multidimensional scaling (MDS), our approach is capable of discovering the nonlinear degrees of freedom that underlie complex natural observations, such as human handwriting or images of a face under different viewing conditions. In contrast to previous algorithms for nonlinear dimensionality reduction, ours efficiently computes a globally optimal solution, and, for an important class of data manifolds, is guaranteed to converge asymptotically to the true structure.",
+    "journal": "Science",
+    "year": 2000,
+    "doi": "https://doi.org/10.1126/science.290.5500.2319"
+  },
+  {
+    "id": 39,
+    "title": "Dynamic Programming",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Little has been done in the study of these intriguing questions, and I do not wish to give the impression that any extensive set of ideas exists that could be called a \"theory.\" What is quite surprising, as far as the histories of science and philosophy are concerned, is that the major impetus for the fantastic growth of interest in brain processes, both psychological and physiological, has come from a device, a machine, the digital computer. In dealing with a human being and a human society, we enjoy the luxury of being irrational, illogical, inconsistent, and incomplete, and yet of coping. In operating a computer, we must meet the rigorous requirements for detailed instructions and absolute precision. If we understood the ability of the human mind to make effective decisions when confronted by complexity, uncertainty, and irrationality then we could use computers a million times more effectively than we do. Recognition of this fact has been a motivation for the spurt of research in the field of neurophysiology. The more we study the information processing aspects of the mind, the more perplexed and impressed we become. It will be a very long time before we understand these processes sufficiently to reproduce them. In any case, the mathematician sees hundreds and thousands of formidable new problems in dozens of blossoming areas, puzzles galore, and challenges to his heart's content. He may never resolve some of these, but he will never be bored. What more can he ask?",
+    "journal": "Science",
+    "year": 1966,
+    "doi": "https://doi.org/10.1126/science.153.3731.34"
+  },
+  {
+    "id": 40,
+    "title": "The Need for a New Medical Model: A Challenge for Biomedicine",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "The dominant model of disease today is biomedical, and it leaves no room within tis framework for the social, psychological, and behavioral dimensions of illness. A biopsychosocial model is proposed that provides a blueprint for research, a framework for teaching, and a design for action in the real world of health care.",
+    "journal": "Science",
+    "year": 1977,
+    "doi": "https://doi.org/10.1126/science.847460"
+  },
+  {
+    "id": 41,
+    "title": "Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Although cancer classification has improved over the past 30 years, there has been no general approach for identifying new cancer classes (class discovery) or for assigning tumors to known classes (class prediction). Here, a generic approach to cancer classification based on gene expression monitoring by DNA microarrays is described and applied to human acute leukemias as a test case. A class discovery procedure automatically discovered the distinction between acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL) without previous knowledge of these classes. An automatically derived class predictor was able to determine the class of new leukemia cases. The results demonstrate the feasibility of cancer classification based solely on gene expression monitoring and suggest a general strategy for discovering and predicting cancer classes for other types of cancer, independent of previous biological knowledge.",
+    "journal": "Science",
+    "year": 1999,
+    "doi": "https://doi.org/10.1126/science.286.5439.531"
+  },
+  {
+    "id": 42,
+    "title": "Combining theory and experiment in electrocatalysis: Insights into materials design",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Electrocatalysis plays a central role in clean energy conversion, enabling a number of sustainable processes for future technologies. This review discusses design strategies for state-of-the-art heterogeneous electrocatalysts and associated materials for several different electrochemical transformations involving water, hydrogen, and oxygen, using theory as a means to rationalize catalyst performance. By examining the common principles that govern catalysis for different electrochemical reactions, we describe a systematic framework that clarifies trends in catalyzing these reactions, serving as a guide to new catalyst development while highlighting key gaps that need to be addressed. We conclude by extending this framework to emerging clean energy reactions such as hydrogen peroxide production, carbon dioxide reduction, and nitrogen reduction, where the development of improved catalysts could allow for the sustainable production of a broad range of fuels and chemicals.",
+    "journal": "Science",
+    "year": 2017,
+    "doi": "https://doi.org/10.1126/science.aad4998"
+  },
+  {
+    "id": 43,
+    "title": "High-Resolution Global Maps of 21st-Century Forest Cover Change",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Quantification of global forest change has been lacking despite the recognized importance of forest ecosystem services. In this study, Earth observation satellite data were used to map global forest loss (2.3 million square kilometers) and gain (0.8 million square kilometers) from 2000 to 2012 at a spatial resolution of 30 meters. The tropics were the only climate domain to exhibit a trend, with forest loss increasing by 2101 square kilometers per year. Brazil's well-documented reduction in deforestation was offset by increasing forest loss in Indonesia, Malaysia, Paraguay, Bolivia, Zambia, Angola, and elsewhere. Intensive forestry practiced within subtropical forests resulted in the highest rates of forest change globally. Boreal forest loss due largely to fire and forestry was second to that in the tropics in absolute and proportional terms. These results depict a globally consistent and locally relevant record of forest change.",
+    "journal": "Science",
+    "year": 2013,
+    "doi": "https://doi.org/10.1126/science.1244693"
+  },
+  {
+    "id": 44,
+    "title": "Spintronics: A Spin-Based Electronics Vision for the Future",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "This review describes a new paradigm of electronics based on the spin degree of freedom of the electron. Either adding the spin degree of freedom to conventional charge-based electronic devices or using the spin alone has the potential advantages of nonvolatility, increased data processing speed, decreased electric power consumption, and increased integration densities compared with conventional semiconductor devices. To successfully incorporate spins into existing semiconductor technology, one has to resolve technical issues such as efficient injection, transport, control and manipulation, and detection of spin polarization as well as spin-polarized currents. Recent advances in new materials engineering hold the promise of realizing spintronic devices in the near future. We review the current state of the spin-based devices, efforts in new materials fabrication, issues in spin transport, and optical spin manipulation.",
+    "journal": "Science",
+    "year": 2001,
+    "doi": "https://doi.org/10.1126/science.1065389"
+  },
+  {
+    "id": 45,
+    "title": "Measuring the Accuracy of Diagnostic Systems",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Diagnostic systems of several kinds are used to distinguish between two classes of events, essentially \"signals\" and \"noise\". For them, analysis in terms of the \"relative operating characteristic\" of signal detection theory provides a precise and valid measure of diagnostic accuracy. It is the only measure available that is uninfluenced by decision biases and prior probabilities, and it places the performances of diverse systems on a common, easily interpreted scale. Representative values of this measure are reported here for systems in medical imaging, materials testing, weather forecasting, information retrieval, polygraph lie detection, and aptitude testing. Though the measure itself is sound, the values obtained from tests of diagnostic systems often require qualification because the test data on which they are based are of unsure quality. A common set of problems in testing is faced in all fields. How well these problems are handled, or can be handled in a given field, determines the degree of confidence that can be placed in a measured value of accuracy. Some fields fare much better than others.",
+    "journal": "Science",
+    "year": 1988,
+    "doi": "https://doi.org/10.1126/science.3287615"
+  },
+  {
+    "id": 46,
+    "title": "Light Propagation with Phase Discontinuities: Generalized Laws of Reflection and Refraction",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Conventional optical components rely on gradual phase shifts accumulated during light propagation to shape light beams. New degrees of freedom are attained by introducing abrupt phase changes over the scale of the wavelength. A two-dimensional array of optical resonators with spatially varying phase response and subwavelength separation can imprint such phase discontinuities on propagating light as it traverses the interface between two media. Anomalous reflection and refraction phenomena are observed in this regime in optically thin arrays of metallic antennas on silicon with a linear phase variation along the interface, which are in excellent agreement with generalized laws derived from Fermat's principle. Phase discontinuities provide great flexibility in the design of light beams, as illustrated by the generation of optical vortices through use of planar designer metallic interfaces.",
+    "journal": "Science",
+    "year": 2011,
+    "doi": "https://doi.org/10.1126/science.1210713"
+  },
+  {
+    "id": 47,
+    "title": "A Neural Substrate of Prediction and Reward",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "The capacity to predict future events permits a creature to detect, model, and manipulate the causal structure of its interactions with its environment. Behavioral experiments suggest that learning is driven by changes in the expectations about future salient events such as rewards and punishments. Physiological work has recently complemented these studies by identifying dopaminergic neurons in the primate whose fluctuating output apparently signals changes or errors in the predictions of future salient and rewarding events. Taken together, these findings can be understood through quantitative theories of adaptive optimizing control.",
+    "journal": "Science",
+    "year": 1997,
+    "doi": "https://doi.org/10.1126/science.275.5306.1593"
+  },
+  {
+    "id": 48,
+    "title": "Machine learning: Trends, perspectives, and prospects",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Machine learning addresses the question of how to build computers that improve automatically through experience. It is one of today's most rapidly growing technical fields, lying at the intersection of computer science and statistics, and at the core of artificial intelligence and data science. Recent progress in machine learning has been driven both by the development of new learning algorithms and theory and by the ongoing explosion in the availability of online data and low-cost computation. The adoption of data-intensive machine-learning methods can be found throughout science, technology and commerce, leading to more evidence-based decision-making across many walks of life, including health care, manufacturing, education, financial modeling, policing, and marketing.",
+    "journal": "Science",
+    "year": 2015,
+    "doi": "https://doi.org/10.1126/science.aaa8415"
+  },
+  {
+    "id": 49,
+    "title": "Perception of Risk",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Studies of risk perception examine the judgements people make when they are asked to characterize and evaluate hazardous activities and technologies. This research aims to aid risk analysis and policy-making by providing a basis for understanding and anticipating public responses to hazards and improving the communication of risk information among lay people, technical experts, and decision-makers. This work assumes that those who promote and regulate health and safety need to understand how people think about and respond to risk. Without such understanding, well-intended policies may be ineffective.",
+    "journal": "Science",
+    "year": 1987,
+    "doi": "https://doi.org/10.1126/science.3563507"
+  },
+  {
+    "id": 50,
+    "title": "Fine Structure Constant Defines Visual Transparency of Graphene",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "There are few phenomena in condensed matter physics that are defined only by the fundamental constants and do not depend on material parameters. Examples are the resistivity quantum, h/e2 (h is Planck's constant and e the electron charge), that appears in a variety of transport experiments and the magnetic flux quantum, h/e, playing an important role in the physics of superconductivity. By and large, sophisticated facilities and special measurement conditions are required to observe any of these phenomena. We show that the opacity of suspended graphene is defined solely by the fine structure constant, a = e2/hc feminine 1/137 (where c is the speed of light), the parameter that describes coupling between light and relativistic electrons and that is traditionally associated with quantum electrodynamics rather than materials science. Despite being only one atom thick, graphene is found to absorb a significant (pa = 2.3%) fraction of incident white light, a consequence of graphene's unique electronic structure.",
+    "journal": "Science",
+    "year": 2008,
+    "doi": "https://doi.org/10.1126/science.1156965"
+  },
+  {
+    "id": 51,
+    "title": "Imaging Intracellular Fluorescent Proteins at Nanometer Resolution",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "We introduce a method for optically imaging intracellular proteins at nanometer spatial resolution. Numerous sparse subsets of photoactivatable fluorescent protein molecules were activated, localized (to approximately 2 to 25 nanometers), and then bleached. The aggregate position information from all subsets was then assembled into a superresolution image. We used this method--termed photoactivated localization microscopy--to image specific target proteins in thin sections of lysosomes and mitochondria; in fixed whole cells, we imaged vinculin at focal adhesions, actin within a lamellipodium, and the distribution of the retroviral protein Gag at the plasma membrane.",
+    "journal": "Science",
+    "year": 2006,
+    "doi": "https://doi.org/10.1126/science.1127344"
+  },
+  {
+    "id": 52,
+    "title": "The spread of true and false news online",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "We investigated the differential diffusion of all of the verified true and false news stories distributed on Twitter from 2006 to 2017. The data comprise ~126,000 stories tweeted by ~3 million people more than 4.5 million times. We classified news as true or false using information from six independent fact-checking organizations that exhibited 95 to 98% agreement on the classifications. Falsehood diffused significantly farther, faster, deeper, and more broadly than the truth in all categories of information, and the effects were more pronounced for false political news than for false news about terrorism, natural disasters, science, urban legends, or financial information. We found that false news was more novel than true news, which suggests that people were more likely to share novel information. Whereas false stories inspired fear, disgust, and surprise in replies, true stories inspired anticipation, sadness, joy, and trust. Contrary to conventional wisdom, robots accelerated the spread of true and false news at the same rate, implying that false news spreads more than the truth because humans, not robots, are more likely to spread it.",
+    "journal": "Science",
+    "year": 2018,
+    "doi": "https://doi.org/10.1126/science.aap9559"
+  },
+  {
+    "id": 53,
+    "title": "Control of Regulatory T Cell Development by the Transcription Factor <i>Foxp3</i>",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Regulatory T cells engage in the maintenance of immunological self-tolerance by actively suppressing self-reactive lymphocytes. Little is known, however, about the molecular mechanism of their development. Here we show that Foxp3, which encodes a transcription factor that is genetically defective in an autoimmune and inflammatory syndrome in humans and mice, is specifically expressed in naturally arising CD4+ regulatory T cells. Furthermore, retroviral gene transfer of Foxp3 converts naïve T cells toward a regulatory T cell phenotype similar to that of naturally occurring CD4+ regulatory T cells. Thus, Foxp3 is a key regulatory gene for the development of regulatory T cells.",
+    "journal": "Science",
+    "year": 2003,
+    "doi": "https://doi.org/10.1126/science.1079490"
+  },
+  {
+    "id": 54,
+    "title": "A General Framework for Analyzing Sustainability of Social-Ecological Systems",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "A major problem worldwide is the potential loss of fisheries, forests, and water resources. Understanding of the processes that lead to improvements in or deterioration of natural resources is limited, because scientific disciplines use different concepts and languages to describe and explain complex social-ecological systems (SESs). Without a common framework to organize findings, isolated knowledge does not cumulate. Until recently, accepted theory has assumed that resource users will never self-organize to maintain their resources and that governments must impose solutions. Research in multiple disciplines, however, has found that some government policies accelerate resource destruction, whereas some resource users have invested their time and energy to achieve sustainability. A general framework is used to identify 10 subsystem variables that affect the likelihood of self-organization in efforts to achieve a sustainable SES.",
+    "journal": "Science",
+    "year": 2009,
+    "doi": "https://doi.org/10.1126/science.1172133"
+  },
+  {
+    "id": 55,
+    "title": "Human Malaria Parasites in Continuous Culture",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Plasmodium falciparum can now be maintained in continuous culture in human erythrocytes incubated at 38 degrees C in RPMI 1640 medium with human serum under an atmosphere with 7 percent carbon dioxide and low oxygen (1 or 5 percent). The original parasite material, derived from an infected Aotus trivirgatus monkey, was diluted more than 100 million times by the addition of human erythrocytes at 3- or 4-day intervals. The parasites continued to reproduce in their normal asexual cycle of approximately 48 hours but were no longer highly synchronous. The have remained infective to Aotus.",
+    "journal": "Science",
+    "year": 1976,
+    "doi": "https://doi.org/10.1126/science.781840"
+  },
+  {
+    "id": 56,
+    "title": "Metamaterial Electromagnetic Cloak at Microwave Frequencies",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "A recently published theory has suggested that a cloak of invisibility is in principle possible, at least over a narrow frequency band. We describe here the first practical realization of such a cloak; in our demonstration, a copper cylinder was \"hidden\" inside a cloak constructed according to the previous theoretical prescription. The cloak was constructed with the use of artificially structured metamaterials, designed for operation over a band of microwave frequencies. The cloak decreased scattering from the hidden object while at the same time reducing its shadow, so that the cloak and object combined began to resemble empty space.",
+    "journal": "Science",
+    "year": 2006,
+    "doi": "https://doi.org/10.1126/science.1133628"
+  },
+  {
+    "id": 57,
+    "title": "Network Motifs: Simple Building Blocks of Complex Networks",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Complex networks are studied across many fields of science. To uncover their structural design principles, we defined \"network motifs,\" patterns of interconnections occurring in complex networks at numbers that are significantly higher than those in randomized networks. We found such motifs in networks from biochemistry, neurobiology, ecology, and engineering. The motifs shared by ecological food webs were distinct from the motifs shared by the genetic networks of Escherichia coli and Saccharomyces cerevisiae or from those found in the World Wide Web. Similar motifs were found in networks that perform information processing, even though they describe elements as different as biomolecules within a cell and synaptic connections between neurons in Caenorhabditis elegans. Motifs may thus define universal classes of networks. This approach may uncover the basic building blocks of most networks.",
+    "journal": "Science",
+    "year": 2002,
+    "doi": "https://doi.org/10.1126/science.298.5594.824"
+  },
+  {
+    "id": 58,
+    "title": "Identification of the Cystic Fibrosis Gene: Cloning and Characterization of Complementary DNA",
+    "discipline": "Computer Science",
+    "set_number": 1,
+    "text": "Overlapping complementary DNA clones were isolated from epithelial cell libraries with a genomic DNA segment containing a portion of the putative cystic fibrosis (CF) locus, which is on chromosome 7. Transcripts, approximately 6500 nucleotides in size, were detectable in the tissues affected in patients with CF. The predicted protein consists of two similar motifs, each with (i) a domain having properties consistent with membrane association and (ii) a domain believed to be involved in ATP (adenosine triphosphate) binding. A deletion of three base pairs that results in the omission of a phenylalanine residue at the center of the first predicted nucleotide-binding domain was detected in CF patients.",
+    "journal": "Science",
+    "year": 1989,
+    "doi": "https://doi.org/10.1126/science.2475911"
+  },
+  {
+    "id": 59,
+    "title": "Self-Assembly at All Scales",
+    "discipline": "Computer Science",
+    "set_number": 2,
+    "text": "Self-assembly is the autonomous organization of components into patterns or structures without human intervention. Self-assembling processes are common throughout nature and technology. They involve components from the molecular (crystals) to the planetary (weather systems) scale and many different kinds of interactions. The concept of self-assembly is used increasingly in many disciplines, with a different flavor and emphasis in each.",
+    "journal": "Science",
+    "year": 2002,
+    "doi": "https://doi.org/10.1126/science.1070821"
+  },
+  {
+    "id": 60,
+    "title": "Transformation of the Nitrogen Cycle: Recent Trends, Questions, and Potential Solutions",
+    "discipline": "Computer Science",
+    "set_number": 3,
+    "text": "Humans continue to transform the global nitrogen cycle at a record pace, reflecting an increased combustion of fossil fuels, growing demand for nitrogen in agriculture and industry, and pervasive inefficiencies in its use. Much anthropogenic nitrogen is lost to air, water, and land to cause a cascade of environmental and human health problems. Simultaneously, food production in some parts of the world is nitrogen-deficient, highlighting inequities in the distribution of nitrogen-containing fertilizers. Optimizing the need for a key human resource while minimizing its negative consequences requires an integrated interdisciplinary approach and the development of strategies to decrease nitrogen-containing waste.",
+    "journal": "Science",
+    "year": 2008,
+    "doi": "https://doi.org/10.1126/science.1136674"
+  }
+]
