@@ -196,7 +196,8 @@ def responses_to_csv(responses):
     if not responses:
         return ""
     output = io.StringIO()
-    writer = csv.DictWriter(output, fieldnames=responses[0].keys())
+    all_keys = list(dict.fromkeys(k for row in responses for k in row))
+    writer = csv.DictWriter(output, fieldnames=all_keys)
     writer.writeheader()
     writer.writerows(responses)
     return output.getvalue()
