@@ -149,6 +149,12 @@ def compute_assignment(annotator_id):
 
 # ─── Google Sheets Integration ────────────────────────────────────────────────
 
+SHEET_COLUMNS = [
+    "annotator_id", "education", "field", "group", "block_number", "method",
+    "abstract_id", "abstract_id_2", "response", "justification",
+    "abstract_title", "abstract_discipline", "block_position", "timestamp",
+]
+
 def save_to_gsheets(rows):
     try:
         import gspread
@@ -163,8 +169,14 @@ def save_to_gsheets(rows):
         gc = gspread.authorize(creds)
         sheet = gc.open(st.secrets["sheet_name"]).sheet1
 
+        # Ensure headers exist
+        existing = sheet.row_values(1)
+        if not existing:
+            sheet.append_row(SHEET_COLUMNS, value_input_option="RAW")
+
         for row in rows:
-            sheet.append_row(list(row.values()), value_input_option="RAW")
+            ordered = [str(row.get(col, "")) for col in SHEET_COLUMNS]
+            sheet.append_row(ordered, value_input_option="RAW")
         return True
     except Exception:
         return False
