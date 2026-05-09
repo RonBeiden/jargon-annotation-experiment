@@ -151,8 +151,9 @@ def compute_assignment(annotator_id):
 
 SHEET_COLUMNS = [
     "annotator_id", "education", "field", "group", "block_number", "method",
-    "abstract_id", "abstract_id_2", "response", "justification",
-    "abstract_title", "abstract_discipline", "block_position", "timestamp",
+    "abstract_id", "abstract_id_2", "response", "harder_abstract_id",
+    "justification", "abstract_title", "abstract_discipline",
+    "block_position", "timestamp",
 ]
 
 def save_to_gsheets(rows):
@@ -516,11 +517,20 @@ def show_annotation():
                 record["response"] = response_value if response_value else ""
                 record["justification"] = justification
             else:  # C
-                record["abstract_id"] = int(pair[0])
+                left_id = int(pair[0])
+                right_id = int(pair[1])
+                record["abstract_id"] = left_id
                 record["abstract_title"] = f"{left_row['title']} vs {right_row['title']}"
                 record["abstract_discipline"] = f"{left_row['discipline']} / {right_row['discipline']}"
-                record["abstract_id_2"] = int(pair[1])
+                record["abstract_id_2"] = right_id
                 record["response"] = response_value if response_value else ""
+                # Resolve which abstract was chosen as harder
+                if response_value and "Left" in response_value:
+                    record["harder_abstract_id"] = left_id
+                elif response_value and "Right" in response_value:
+                    record["harder_abstract_id"] = right_id
+                else:
+                    record["harder_abstract_id"] = "tie"
                 record["justification"] = justification
 
             st.session_state.responses.append(record)
